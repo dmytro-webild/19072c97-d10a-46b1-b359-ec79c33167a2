@@ -57,7 +57,7 @@ export default function LandingPage() {
             { text: "Pošljite povpraševanje", href: "#contact" }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/serviceman-car-service-using-holographic-augmented-reality-show-customer-defective-vehicle-piston-hardworking-garage-employee-using-innovative-ar-tech-project-automobile-parts-woman_482257-74243.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/serviceman-car-service-using-holographic-augmented-reality-show-customer-defective-vehicle-piston-hardworking-garage-employee-using-innovative-ar-tech-project-automobile-parts-woman_482257-74243.jpg?_wi=1"
           imageAlt="GP Avto delavnica"
           ariaLabel="GP Avto hero section"
         />
@@ -74,16 +74,16 @@ export default function LandingPage() {
           useInvertedBackground={false}
           features={[
             {
-              id: "expertise",              title: "Strokoven servis",              description: "Dolgoletne izkušnje in profesionalno opravljeno delo. Vaš avtomobil je v najboljših rokah.",              tag: "Strokovnost",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-using-laptop-while-servicing-car-engine_1170-1334.jpg",              imageAlt: "diagnostic scanner vehicle testing"
+              id: "expertise",              title: "Strokoven servis",              description: "Dolgoletne izkušnje in profesionalno opravljeno delo. Vaš avtomobil je v najboljših rokah.",              tag: "Strokovnost",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-using-laptop-while-servicing-car-engine_1170-1334.jpg?_wi=1",              imageAlt: "diagnostic scanner vehicle testing"
             },
             {
-              id: "pricing",              title: "Poštene cene",              description: "Transparentne in ugodne cene brez presenečenj. Vedno vas obvestimo pred delom.",              tag: "Cena",              imageSrc: "http://img.b2bpic.net/free-photo/coworkers-car-service-using-professional-mechanical-tool-repair-broken-engine-efficient-workers-garage-repairing-client-automobile-ensuring-optimal-automotive-performance-close-up_482257-73057.jpg",              imageAlt: "oil change service car maintenance"
+              id: "pricing",              title: "Poštene cene",              description: "Transparentne in ugodne cene brez presenečenj. Vedno vas obvestimo pred delom.",              tag: "Cena",              imageSrc: "http://img.b2bpic.net/free-photo/coworkers-car-service-using-professional-mechanical-tool-repair-broken-engine-efficient-workers-garage-repairing-client-automobile-ensuring-optimal-automotive-performance-close-up_482257-73057.jpg?_wi=1",              imageAlt: "oil change service car maintenance"
             },
             {
-              id: "warranty",              title: "Garancija",              description: "Na vsako opravljeno delo dobite garancijo. Vaša varnost je naša prioriteta.",              tag: "Zavarovanje",              imageSrc: "http://img.b2bpic.net/free-photo/female-mechanic-repairing-car_1170-1620.jpg",              imageAlt: "brake service repair professional mechanic"
+              id: "warranty",              title: "Garancija",              description: "Na vsako opravljeno delo dobite garancijo. Vaša varnost je naša prioriteta.",              tag: "Zavarovanje",              imageSrc: "http://img.b2bpic.net/free-photo/female-mechanic-repairing-car_1170-1620.jpg?_wi=1",              imageAlt: "brake service repair professional mechanic"
             },
             {
-              id: "relationship",              title: "Prijazen odnos",              description: "Stranke cenijo korekten odnos in prilagodljivost. Dolgoročno sodelovanje je naš cilj.",              tag: "Zaupanje",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-car-service-ordering-new-lights-system-damaged-vehicle-using-tablet-worker-client-looking-online-components-replace-old-ones-malfunctioning-automobile_482257-73065.jpg",              imageAlt: "vehicle inspection technical check"
+              id: "relationship",              title: "Prijazen odnos",              description: "Stranke cenijo korekten odnos in prilagodljivost. Dolgoročno sodelovanje je naš cilj.",              tag: "Zaupanje",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-car-service-ordering-new-lights-system-damaged-vehicle-using-tablet-worker-client-looking-online-components-replace-old-ones-malfunctioning-automobile_482257-73065.jpg?_wi=1",              imageAlt: "vehicle inspection technical check"
             }
           ]}
           animationType="slide-up"
@@ -103,19 +103,19 @@ export default function LandingPage() {
           useInvertedBackground={false}
           products={[
             {
-              id: "service-oil",              name: "Redni servis vozil",              price: "Od €60",              imageSrc: "http://img.b2bpic.net/free-photo/coworkers-car-service-using-professional-mechanical-tool-repair-broken-engine-efficient-workers-garage-repairing-client-automobile-ensuring-optimal-automotive-performance-close-up_482257-73057.jpg",              imageAlt: "oil change service car maintenance"
+              id: "service-oil",              name: "Redni servis vozil",              price: "Od €60",              imageSrc: "http://img.b2bpic.net/free-photo/coworkers-car-service-using-professional-mechanical-tool-repair-broken-engine-efficient-workers-garage-repairing-client-automobile-ensuring-optimal-automotive-performance-close-up_482257-73057.jpg?_wi=2",              imageAlt: "oil change service car maintenance"
             },
             {
-              id: "service-brake",              name: "Menjava zavor",              price: "Od €120",              imageSrc: "http://img.b2bpic.net/free-photo/female-mechanic-repairing-car_1170-1620.jpg",              imageAlt: "brake service repair professional mechanic"
+              id: "service-brake",              name: "Menjava zavor",              price: "Od €120",              imageSrc: "http://img.b2bpic.net/free-photo/female-mechanic-repairing-car_1170-1620.jpg?_wi=2",              imageAlt: "brake service repair professional mechanic"
             },
             {
-              id: "service-diagnostic",              name: "Diagnostika vozil",              price: "Od €40",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-using-laptop-while-servicing-car-engine_1170-1334.jpg",              imageAlt: "diagnostic scanner vehicle testing"
+              id: "service-diagnostic",              name: "Diagnostika vozil",              price: "Od €40",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-using-laptop-while-servicing-car-engine_1170-1334.jpg?_wi=2",              imageAlt: "diagnostic scanner vehicle testing"
             },
             {
-              id: "service-filter",              name: "Menjava filtrov",              price: "Od €30",              imageSrc: "http://img.b2bpic.net/free-photo/coworkers-car-service-using-professional-mechanical-tool-repair-broken-engine-efficient-workers-garage-repairing-client-automobile-ensuring-optimal-automotive-performance-close-up_482257-73057.jpg",              imageAlt: "oil change service car maintenance"
+              id: "service-filter",              name: "Menjava filtrov",              price: "Od €30",              imageSrc: "http://img.b2bpic.net/free-photo/coworkers-car-service-using-professional-mechanical-tool-repair-broken-engine-efficient-workers-garage-repairing-client-automobile-ensuring-optimal-automotive-performance-close-up_482257-73057.jpg?_wi=3",              imageAlt: "oil change service car maintenance"
             },
             {
-              id: "service-inspection",              name: "Tehnični pregled",              price: "Od €50",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-car-service-ordering-new-lights-system-damaged-vehicle-using-tablet-worker-client-looking-online-components-replace-old-ones-malfunctioning-automobile_482257-73065.jpg",              imageAlt: "vehicle inspection technical check"
+              id: "service-inspection",              name: "Tehnični pregled",              price: "Od €50",              imageSrc: "http://img.b2bpic.net/free-photo/mechanic-car-service-ordering-new-lights-system-damaged-vehicle-using-tablet-worker-client-looking-online-components-replace-old-ones-malfunctioning-automobile_482257-73065.jpg?_wi=2",              imageAlt: "vehicle inspection technical check"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -229,7 +229,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/serviceman-car-service-using-holographic-augmented-reality-show-customer-defective-vehicle-piston-hardworking-garage-employee-using-innovative-ar-tech-project-automobile-parts-woman_482257-74243.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/serviceman-car-service-using-holographic-augmented-reality-show-customer-defective-vehicle-piston-hardworking-garage-employee-using-innovative-ar-tech-project-automobile-parts-woman_482257-74243.jpg?_wi=2"
           imageAlt="GP Avto delavnica"
           logoText="GP Avto"
           copyrightText="© 2025 GP Avto | Zanesljiv avtoservis"
